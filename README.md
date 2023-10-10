@@ -26,9 +26,9 @@ This code powers a robot capable of autonomously navigating through a maze, maki
 - **Pathfinding Algorithm:** The algorithm implemented is based on measuring distances, and adjusting the robots movement based on the confined spaces it finds itself in.
 - **Problem-Solving:** Use this code to explore the world of robotics and problem-solving as your robot cleverly maneuvers through intricate mazes.
 
-### Distance Detection with Seven-Segment Display
+### Ultrasonic Robot
 
-This code enables an Arduino to measure distances in front of it and display the results on a seven-segment display.
+This code powers a robot to measure distances in front of it, display the results on a seven-segment display, and tank turn based on the longer distance.
 
 #### Key Features
 - **Distance Sensing:** The code utilizes an ultrasonic sensor to measure distances and provides accurate readings.
